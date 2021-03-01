@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/levi/Programming/vscode-solution-ext/vscode-solution-explorer'
+let g:netrw_dirhist_8='/home/levi/Programming/vscode-solution-ext'
+let g:netrw_dirhist_7='/home/levi/Programming'
+let g:netrw_dirhist_6='/home/levi/Programming/LLVM'
+let g:netrw_dirhist_5='/home/levi/Programming/LLVM/clang_AST_examples'
+let g:netrw_dirhist_4='/home/levi/Programming/vscode-solution-ext/vscode-solution-explorer/src'
+let g:netrw_dirhist_3='/home/levi/Programming/vscode-solution-ext/vscode-solution-explorer'
+let g:netrw_dirhist_2='/home/levi/Programming/vscode-solution-ext/vscode-solution-explorer/src/model/Projects/Kinds'
+let g:netrw_dirhist_1='/home/levi/Programming/vscode-solution-ext/vscode-solution-explorer/src/model/Projects'
+let g:netrw_dirhist_0='/home/levi/Programming/vscode-solution-ext/vscode-solution-explorer/src/model'
